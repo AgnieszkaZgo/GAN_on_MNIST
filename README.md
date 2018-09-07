@@ -1,4 +1,4 @@
-# GAN_on_MNIST
+# Generative Adversarial Network on MNIST database using Keras.
 
 
 
