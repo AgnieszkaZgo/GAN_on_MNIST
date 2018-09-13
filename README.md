@@ -11,3 +11,6 @@ Projects consists of six parts:
 4. Training the network
 5. Generate images with GAN
 6. Loss finction and accuracy
+
+![](digits.png)
+
